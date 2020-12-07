@@ -1,0 +1,12 @@
+body {
+  background-color: darkgray;
+}
+
+.heading {
+  color: brown;
+  font-size: 80px;
+}
+#logan {
+  color: rgb(16, 86, 88);
+  font-size: 40px;
+}
