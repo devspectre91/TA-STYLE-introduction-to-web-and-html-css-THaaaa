@@ -1,0 +1,27 @@
+body {
+  background-color: #22396a;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 20px 30px 10px 30px;
+}
+
+p {
+  line-height: 1.8em;
+  margin-top: 0;
+}
+h1,
+h2,
+h3,
+h4 {
+  margin-bottom: 10px;
+}
+.green-heading {
+  color: lightgreen;
+}
+a {
+  color: crimson;
+  padding-left: 2em;
+}
+#links > :first-child {
+  padding-left: 0;
+}
